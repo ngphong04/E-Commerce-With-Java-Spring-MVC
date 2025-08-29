@@ -45,11 +45,10 @@ body {
 			<div class="row">
 				<div class="col-sm-8 col-sm-offset-2 text">
 					<h1>
-						<strong>ShopIeasy</strong> Contact Form
+						<strong>Phong</strong> Phong
 					</h1>
 					<div class="description">
-						<p>If you need any help from Us please contact us. Write your
-							Queries.</p>
+						<p>Phong</p>
 					</div>
 				</div>
 			</div>
