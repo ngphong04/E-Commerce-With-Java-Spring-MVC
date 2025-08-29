@@ -3,6 +3,7 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <%@ taglib prefix="security"
 	uri="http://www.springframework.org/security/tags"%>
+
 <%@ page isELIgnored="false"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
@@ -28,7 +29,7 @@
 		<div ng-app="myapp" ng-controller="myController"
 			style="margin-bottom: 30px">
 			<div ng-init="getCart(${cartId})">
-				<br> List of Products Purchased
+				<br> Code lỏ vãi
 				<div>
 
 					<a class="btn btn-danger pull-left" ng-click="clearCart()"
