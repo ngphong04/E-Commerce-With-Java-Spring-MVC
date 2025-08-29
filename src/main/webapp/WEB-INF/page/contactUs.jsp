@@ -56,7 +56,7 @@ body {
 				<div class="col-sm-6 col-sm-offset-3 form-box">
 					<div class="form-top">
 						<div class="form-top-left">
-							<h3>Contact us</h3>
+							<h3>Contact us hihi</h3>
 
 						</div>
 						<div class="form-top-right">
@@ -81,7 +81,7 @@ body {
 							</div>
 							<button type="submit" class="btn">Send message</button>
 							<button style="float: right;" type="button" class="btn"
-								onclick="window.location.href='<c:url value="/index1" />'">Back
+								onclick="window.location.href='<c:url value="" />">Back
 								to Home</button>
 						</form:form>
 					</div>
