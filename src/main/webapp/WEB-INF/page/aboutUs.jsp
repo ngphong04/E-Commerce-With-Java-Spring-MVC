@@ -27,7 +27,7 @@
 				<h3>Who Am I?</h3>
 				<img src="<c:url value="/resource/images/aboutImage.png"/>" class="img-circle" alt="AboutUs" width="350"
 					height="350">
-				<h3>ShopIeasy a WorldWide E-Commerce Site</h3>
+				<h3>Phong demo</h3>
 			</div>
 
 		</div>
